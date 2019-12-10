@@ -1,0 +1,65 @@
+body{
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: absolute;
+	background-color: transparent;
+	width: 100%;
+	top:0;
+}
+#hero{
+	background-image: url("../img/header-bg.jpg");
+	background-position: center;
+	background-size: cover;
+	padding: 25%;
+	
+}
+.titulo{
+	color:rgba(255,255,255,1.00);
+	margin-right: 30%;
+	
+}
+.subtitulo{
+	color: #b68834;
+		
+}
+.titulodos{
+	color:#222222;
+	
+}
+.serve{
+	color:#222222;
+	text-align: center;
+}
+.centrar{
+	text-align: center;
+	
+}
+
+.section{
+	padding: 5%;
+	
+	
+}
+.cuadro{
+	background-color: #fff;
+	border: 3px solid #fff;
+	padding: 8px
+	
+}
+.background{
+color:rgba(144,144,144,1.00);
+	
+	background-image: url("../img/menu-bg.jpg");
+
+}
+.textouno{
+	color:#000;
+	text-align: center;
+}
+#foto{
+	
+background-image: url("../img/footer-bg.jpg");
+}
